@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<script src="js/jquery-1.7.1.min.js"></script>
+<script src="js/jquery.tokeninput.js"></script>
+<link href="css/token-input.css" rel="stylesheet">
+<link href="css/token-input-facebook.css" rel="stylesheet">
+<title>JQuery Tokens</title>
+<script>
+        $(document).ready(function() {
+            $("#countries").tokenInput("ajax.php",{theme:"facebook",preventDuplicates: true});
+        });
+</script>
+</head>
+
+<body>
+	<form action="show.php">
+		<input type="text" name="countries" id="countries">
+    	<input type="submit" value="Show">
+    </form>
+</body>
+</html>

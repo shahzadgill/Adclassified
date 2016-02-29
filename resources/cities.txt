@@ -1,0 +1,67 @@
+1,Karachi,1
+2,Lahore,2
+3,Faisalabad,2
+4,Rawalpindi,2
+5,Multan,2
+6,Gujranwala,2
+7,Hyderabad,1
+8,Peshawar,3
+9,Islamabad,4
+10,Quetta,5
+11,Sargodha,2
+12,Sialkot,2
+13,Bahawalpur,2
+14,Sukkur,1
+15,Jhang,2
+16,Shekhupura,2
+17,Mardan,3
+18,Gujrat,2
+19,Larkana,1
+20,Kasur,2
+21,Rahim Yar Khan,2
+22,Sahiwal,2
+23,Okara,2
+24,Wah Cantonment,2
+25,Dera Ghazi Khan,2
+26,Mingora,3
+27,Mirpur Khas,1
+28,Chiniot,2
+29,Nawabshah,1
+30,Kamoke,2
+31,Burewala,2
+32,Jhelum,2
+33,Sadiqabad,2
+34,Khanewal,2
+35,Hafizabad,2
+36,Kohat,3
+37,Jacobabad,1
+38,Shikarpur,1
+39,Muzaffargarh,2
+40,Khanpur,2
+41,Gojra,2
+42,Bahawalnagar,2
+43,Abbottabad,3
+44,Muridke,2
+45,Pakpattan,2
+46,Khuzdar,5
+47,Jaranwala,2
+48,Chishtian,2
+49,Daska,2
+50,Mandi,2
+51,Ahmadpur East,2
+52,Kamalia,2
+53,Tando Adam,1
+54,Khairpur,1
+55,Dera Ismail Khan,3
+56,Vehari,2
+57,Nowshera,3
+58,Dadu,1
+59,Wazirabad,2
+60,Khushab,2
+61,Charsada,3
+62,Swabi,3
+63,Chakwal,2
+64,Mianwali,2
+65,Tando Allahyar,1
+66,Kot Adu,2
+67,Turbat,2
